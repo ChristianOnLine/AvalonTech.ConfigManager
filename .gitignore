@@ -1,0 +1,21 @@
+.tfignore
+bin/
+obj/
+*/bin/*
+*/obj/*
+*\obj\*
+*\bin\*
+.vs/
+
+# User-specific files
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.user
+*.vbproj.user
+*.csproj.user
+.vs
+*.jfm
+packages
+
